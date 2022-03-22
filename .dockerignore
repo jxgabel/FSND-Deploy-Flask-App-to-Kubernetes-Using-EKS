@@ -1,0 +1,10 @@
+.dockerignore
+.git
+.github
+.cache
+venv/
+*.pyc
+examples/
+*.yml
+README*
+CODEOWNERS
